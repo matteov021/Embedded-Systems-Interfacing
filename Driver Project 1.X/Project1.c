@@ -45,7 +45,7 @@ int main(void) {
     TRISA = 0b01010011;
      
     // Define UCID
-    int32_t num = 301404070;
+    int32_t num = 133837735;  
     
     // Generate An Array For The UCID
     // Get The Right Most Digit -> Append To Array -> Remove Right Most Digit -> Repeat Until All Digits Are Consumed
